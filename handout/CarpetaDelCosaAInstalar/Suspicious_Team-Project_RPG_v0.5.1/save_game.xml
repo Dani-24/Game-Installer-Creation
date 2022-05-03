@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<save_state>
+	<window />
+	<input />
+	<textures />
+	<audio>
+		<music value="20" />
+		<sfx value="20" />
+	</audio>
+	<pathfinder />
+	<logoScene />
+	<titleScene />
+	<battle />
+	<stages />
+	<scene />
+	<map />
+	<EntityManager>
+		<playerpos x="944" y="1451" />
+		<actualStage stage="2" />
+		<stats PlayerHp="20" ValionHp="15" />
+	</EntityManager>
+	<pauseMenu />
+	<conf />
+	<guiManager />
+	<fonts />
+	<dialogSystem />
+	<collisions />
+	<fade />
+	<camera>
+		<camera x="-1305" y="-2596" />
+	</camera>
+	<renderer />
+</save_state>

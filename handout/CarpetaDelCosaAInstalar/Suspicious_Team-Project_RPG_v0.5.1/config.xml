@@ -1,0 +1,100 @@
+<!-- Config file for the game -->
+<config>
+    <app>
+        <title>Project RPG v0.5.1 (Vertical Slide)</title>
+        <organization>Suspicious Team</organization>
+    </app>
+
+    <renderer>
+        <vsync value="true"/>
+		
+    </renderer>
+
+	<audio>
+		<music value="20"/>
+		<sfx value="20"/>
+		
+	</audio>
+	
+	<camera>
+		
+	</camera>
+	
+    <window>
+        <resolution width="1280" height="720" scale="2"/>
+        <fullscreen value="false"/>
+        <borderless value="false"/>
+        <resizable value="false"/>
+        <fullscreen_window value="false"/>
+    </window>
+
+    <map>
+        <folder>Assets/maps/</folder>
+    </map>
+
+   <player>
+		<male path="Assets/sprites/MainCh/MainChM/Walk/MainChM.png"/>
+		<female path="Assets/sprites/MainCh/MainChF/Walk/MainChF.png"/>
+		<election path="Assets/audio/sfx/fx_character_yes.wav"/>
+		<walkFx path="Assets/audio/sfx/fx_walk.wav"/>
+		<interactionButton path="Assets/gui/controllers/ui_mixed.png"/>
+	   <exampleNumber num="6"/>
+	</player>
+	
+	<titleScene>
+		<startb path="Assets/gui/button_start.png"/>
+		<continueb path="Assets/gui/button_continue.png"/>
+		<optionsb path="Assets/gui/button_options.png"/>
+		<creditsb path="Assets/gui/button_credits.png"/>
+		<exitb path="Assets/gui/button_exit.png"/>
+		<title path="Assets/textures/title_screen_bg.png"/>
+		<mustitle path="Assets/audio/music/music_title.ogg"/>
+		<sfsxconfirm path="Assets/audio/sfx/fx_select_confirm.wav"/>
+		<sfxtitle path="Assets/audio/sfx/fx_title.wav"/>
+	</titleScene>
+	
+	<conf>
+		<musset path="Assets/audio/music/music_settings.ogg"/>
+		<sfxback path="Assets/audio/sfx/fx_select_back.wav"/>
+		<backgr path="Assets/gui/marco_opciones.png"/>
+	</conf>
+	
+	<scene>
+		<spionage path="Assets/audio/music/music_credits.ogg" />
+	</scene>
+
+	<cock>
+		<chicken path="Assets/sprites/npc/tavern/chicken.png"/>
+	</cock>
+	
+	<barkeeper>
+		<tavern path="Assets/sprites/npc/tavern/npc_tavern.png"/>
+	</barkeeper>
+	
+	<trainer>
+		<trainer path="Assets/sprites/npc/training/npc_training.png"/>
+	</trainer>
+	
+	<merchant>
+		<shoper path="Assets/sprites/npc/shop/npc_shop.png"/>
+	</merchant>
+	
+	<emilio>
+		<korb path="Assets/sprites/npc/tower/npc_emilio.png"/>
+	</emilio>
+
+	<giroide>
+		<g path="Assets/sprites/npc/extra/npc_giroide.png"/>
+	</giroide>
+
+	<pathfinder>
+		<pathtex path="Assets/textures/path.png"/>
+		<pathorigin path="Assets/textures/pathOrigin.png"/>
+	</pathfinder>
+	
+	<logoScene>
+		<logo path="Assets/textures/logo.png"/>	
+		<logofx path="Assets/audio/sfx/fx_logo.wav"/>	
+	</logoScene>
+	
+</config>
