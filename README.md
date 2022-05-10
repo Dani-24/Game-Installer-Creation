@@ -14,4 +14,6 @@ Help
 
 ## Relevant Links
 
+[Github Page](https://dani-24.github.io/Game-Installer-Creation/)
+
 [Inno Setup](https://jrsoftware.org/isinfo.php)
