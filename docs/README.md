@@ -1,26 +1,17 @@
-# Game-Installer-Creation
-Little tutorial repository to create a Game Installer Creation
+# Game Installer Creation
 
-// Research article
+## Description
 
-// Problem Description
+In this repository you can find a small guide to make your own Installer using Inno Setup for your programs / games.
 
-// Market Study
+You can find a guide in PDF on Docs folder using the files on the Handout folder. There's also a Solution folder with the final code & test installer.
 
-// Proposed Solution
+## About Author
 
-// Possible Improvements/Innovations
+Hi, I'm Dani Toledo Rodriguez, a videogames design & development student.
 
-// Provided Code and/or Templates
+Help
 
-// Documentation Links and References
+## Relevant Links
 
----
-
-1. Introduction to the topic / problem to solve
-2. Market study showing other games approaches (use animated gifs!)
-3. Selected approach, describe and present it in detail
-4. Possible improvements of the presented solution
-5. Examples: Theory: Documents/templates - Code: VS Project in the repository
-6. Exercises: Theory: None - Code: VS Project with TODOs to complete (Handout + Solution)
-7. Documentation and References links
+[Inno Setup](https://jrsoftware.org/isinfo.php)
