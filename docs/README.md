@@ -6,7 +6,7 @@ Welcome to this Game Installer Creation Github Page. Here you could find a small
 
 ![image](https://user-images.githubusercontent.com/79161140/167741237-b6509948-899a-468c-b979-9cfc16ed280b.png)
 
-Setup Example Image
+(Setup Example Image)
 
 ## How to make an installer for your programs
 
